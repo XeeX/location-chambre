@@ -1,0 +1,35 @@
+﻿.darker {
+    -ms-border-radius: 0;
+    border-radius: 0;
+    color: #fff;
+    background-color: #000000;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.btn-light {
+    -ms-border-radius: 0;
+    border-radius: 0;
+    color: #000;
+    background-color: #ffffff;
+    background-color: rgba(255,255,255,0.7);
+}
+
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active {
+    color: #000;
+    background-color: #ffffff;
+    background-color: rgba(255,255,255,0.9);
+}
+
+/*.bg-primary {
+  color: #fff;
+  background-color: #585858;
+}
+a.bg-primary:hover {
+  background-color: #787878;
+}*/
+
+.text-light {
+    color: #ffffff;
+}
